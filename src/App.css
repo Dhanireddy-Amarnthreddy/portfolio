@@ -1,0 +1,42 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: url('https://en.idei.club/uploads/posts/2023-06/1687398426_en-idei-club-p-study-table-background-dizain-krasivo-32.jpg');
+  padding: 100px 600px;
+  color: rgb(255, 252, 252);
+  text-align: center;
+  text-decoration:underline;
+}
+
+nav a {
+  margin:  10px;
+  color: rgb(249, 249, 249);
+  text-decoration:underline;
+}
+
+nav a:hover {
+  text-decoration:underline;
+}
+
+main {
+  padding: 120px;
+}
+
+section {
+  text-align: left;
+  padding: left;
+  margin: -110px;
+}
+
+h2 {
+  text-align: left;
+  padding: left;
+  margin: 0px;
+  text-decoration:underline;
+  
+}
