@@ -4,9 +4,9 @@ const Contact = () => (
   <section id="contact">
     <h2>Contact</h2>
     <ul>
-      <li><a href="mailto:your-email@example.com">shrugangadaran@gmail.com</a></li>
-      <li><a href="mailto:your-email@example.com">shrugangadaran@linkedin.com</a></li>
-      <li>Contact:9876543210/9786132450</li>
+      <li><a href="mailto:your-email@example.com">amarnathreddy679@gmail.com</a></li>
+      <li><a href="mailto:your-email@example.com">amardhani@linkedin.com</a></li>
+      <li><b>Contact: </b>9398355729</li>
     </ul>
   </section>
 );
